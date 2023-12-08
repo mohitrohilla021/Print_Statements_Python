@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 Thanks to Python for providing various ways to handle strings and print statements.
 
-Thanks for reaching
+Thanks for reaching out
